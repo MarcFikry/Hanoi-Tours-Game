@@ -1,38 +1,35 @@
-# Set – Python Game Project
+# Towers of Hanoi – Python Turtle Project
 
-This is a Python implementation of the logic game **Set**, developed as a semester project for **INF204 (UE)** during the second semester of my first year.
+This project is a graphical and interactive version of the classic Towers of Hanoi puzzle. Built entirely in Python using the Turtle module, it was developed as a semester project for INF101 (first semester of year 1).
 
-The game features both textual and graphical interfaces using Python's built-in **Turtle** module and supports:
-- Automatic simulation mode
-- Human player mode (with score tracking)
-- Visual display of cards
-- Set detection and highlighting
+The game features full animation, user interaction, scoring, and statistical visualizations for multiple players.
 
 ---
 
 ## Features
 
-- Card representation with 4 attributes: color, shape, texture, number
-- Randomized deck initialization and card drawing
-- Graphical interface for card display (with preloaded images)
-- Automatic gameplay and statistical analysis
-- Multiplayer mode with score tracking
-- "Help" option for players to receive assistance
+- Fully animated graphical interface using Turtle
+- Interactive disk movement and validation
+- Undo last move functionality
+- Win/loss/abandon conditions
+- Score tracking by player and number of disks
+- Time and average thinking speed tracking
+- Post-game visual charts:
+  - Scoreboard
+  - Completion times
+  - Thinking time averages
+- Optional automated solution animation
 
 ---
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 - Python 3.x
-- Turtle module (comes with standard Python)
-- A folder named `images/` with the required `.gif` files for cards:
-  - Format: `forme_couleur_texture.gif` (e.g., `ovale_rouge_plein.gif`)
+- Turtle module (included in standard Python)
 
-### Running the Game
-
-To start the game:
+### How to Run
 
 ```bash
-python Projet.py
+python PROJET!.py
