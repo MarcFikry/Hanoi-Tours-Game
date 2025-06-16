@@ -1,4 +1,4 @@
-# 🎴 Set – Python Game Project
+# Set – Python Game Project
 
 This is a Python implementation of the logic game **Set**, developed as a semester project for **INF204 (UE)** during the second semester of my first year.
 
@@ -10,7 +10,7 @@ The game features both textual and graphical interfaces using Python's built-in 
 
 ---
 
-## 🛠️ Features
+## Features
 
 - Card representation with 4 attributes: color, shape, texture, number
 - Randomized deck initialization and card drawing
@@ -21,7 +21,7 @@ The game features both textual and graphical interfaces using Python's built-in 
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
